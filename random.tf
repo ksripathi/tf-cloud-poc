@@ -1,4 +1,4 @@
-resource "random_pet" "tfc_refresh" {
+resource "random_pet" "test_case1" {
   keepers = {
     refresh : 1
   }
